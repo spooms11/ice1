@@ -1,2 +1,2 @@
 # ice1
-gene
+genomic
